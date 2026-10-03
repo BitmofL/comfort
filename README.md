@@ -41,3 +41,8 @@ ImportData.sql        # начальные данные
 1. Создать БД из `DatabaseScript.sql` и выполнить `ImportData.sql`.
 2. Указать строку подключения в `App.config` / в коде (по умолчанию — LocalDB).
 3. Открыть `Comfort.sln` в Visual Studio и запустить.
+
+## Интерфейс
+![Приложение Comfort](Comfort.png)
+
+![Схема работы](Diagram.JPG)
